@@ -1,0 +1,42 @@
+﻿p{
+color: gold
+}
+
+a{
+color: blue;
+}
+
+h1{
+color: #ffe02e;
+border-style: solid;
+border-width: 10px;
+border-left-width: 10px;
+border-right-width: 10px;
+border-color: #d6b600;
+border-top-color: gold;
+border-bottom-color: gold;
+padding:7px;
+text-align: center;
+font-size:24pt;
+background-color: #e0bf00;
+}
+
+h2{
+color: yellow;
+background-color: orange;
+padding: 2px;
+}
+
+h3{
+color: yellow;
+background-color: orange;
+padding: 2px;
+}
+
+body{
+margin:9px;
+font-size:12pt;
+font-family: calibri;
+color: gold;
+background-color: black
+}
